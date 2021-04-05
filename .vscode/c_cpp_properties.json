@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/taek/catkin_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/taek/catkin_ws/src/Azure_Kinect_ROS_Driver/include/**",
+        "/home/taek/catkin_ws/src/dyros_practice_1/include/**",
+        "/home/taek/catkin_ws/src/dyros_practice_2/include/**",
+        "/home/taek/catkin_ws/src/dyros_practice_rosparam/include/**",
+        "/home/taek/catkin_ws/src/dyros_tf2/include/**",
+        "/home/taek/catkin_ws/src/kinect_tf/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/laser_ortho_projector/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/laser_scan_matcher/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/laser_scan_sparsifier/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/laser_scan_splitter/include/**",
+        "/home/taek/catkin_ws/src/moveit_sim_interface/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/ncd_parser/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/polar_scan_matcher/include/**",
+        "/home/taek/catkin_ws/src/realsense2_camera/include/**",
+        "/home/taek/catkin_ws/src/rviz_camera_stream/include/**",
+        "/home/taek/catkin_ws/src/scan_tools-indigo/scan_to_cloud_converter/include/**",
+        "/home/taek/catkin_ws/src/uos_tools/uos_diffdrive_teleop/include/**",
+        "/home/taek/catkin_ws/src/uos_tools/uos_freespace/include/**",
+        "/home/taek/catkin_ws/src/vrep_franka_tutorial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
