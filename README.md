@@ -5,6 +5,10 @@ urdf.rviz, display.launch are modified.
 
 ## how to run
 
+First, you should install this package.
+<https://github.com/lucasw/rviz_camera_stream>
+Then replace exsiting "urdf.rviz" and "display.launch" with new files. 
+
 roslaunch tocabi_description display.launch 
 
 ## urdf.rviz
