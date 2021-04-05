@@ -6,10 +6,11 @@ urdf.rviz, display.launch are modified.
 ## how to run
 
 First, you should install this package.
-<https://github.com/lucasw/rviz_camera_stream>
-Then replace exsiting "urdf.rviz" and "display.launch" with new files. 
+<https://github.com/lucasw/rviz_camera_stream><\br>
 
-roslaunch tocabi_description display.launch 
+Second replace exsiting "urdf.rviz" and "display.launch" in "dyros_tocabi" with new files. 
+<\br>
+Third, roslaunch tocabi_description display.launch 
 
 ## urdf.rviz
 
@@ -25,6 +26,6 @@ Camera1 and camera2 nodes are added to display.launch.
 ```
 You can change the args. (args="x y z yaw pitch roll frame_id child_frame_id period_in_ms")
 Camera 2 doesn't do anything so you can delete the code which is related to it.
-tf_publisher_gui can help to get "yaw pitch roll" in gui. 
+tf_publisher_gui can help to get "yaw pitch roll" in gui. <\br>
 <http://wiki.ros.org/tf_publisher_gui>
 
